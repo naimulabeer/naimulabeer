@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naimul Haq Abeer</h1>
 <h3 align="center">A full stack developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **React.js, Redux**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **MongoDB, Express.js, Node.js, React.js**
 
