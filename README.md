@@ -1,7 +1,7 @@
 ![Header](./Banner.png)
 
 
-Hi 👋 My name is Naimul Haq Abeer
+Hi 👋 I'm Naimul Haq Abeer
 =================================
 
 
@@ -30,8 +30,8 @@ Motivated and enthusiastic junior web developer with a strong foundation in web 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/naimulabeer"><img src="https://github-readme-stats.vercel.app/api?username=naimulabeer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="naimulabeer's GitHub stats" /></a>
+![naimulabeer's Stats](https://github-readme-stats.vercel.app/api?username=naimulabeer&theme=react&show_icons=true&hide_border=true&count_private=true)
 
-<a href="http://www.github.com/naimulabeer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naimulabeer&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![naimulabeer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=naimulabeer&theme=react&hide_border=true)
 
-<a href="https://github.com/naimulabeer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimulabeer&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![naimulabeer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimulabeer&theme=react&show_icons=true&hide_border=true&layout=compact)
