@@ -1,9 +1,9 @@
+![Header](./github-header-image.png)
+
 
 Hi 👋 My name is Naimul Haq Abeer
 =================================
 
-Web Developer
--------------
 
 Motivated and enthusiastic junior web developer with a strong foundation in web development technologies, seeking an opportunity to kickstart my career in a dynamic and collaborative environment. Eager to learn and grow as a professional web developer while contributing my creativity and problem solving skills to build engaging and user-friendly websites.
 
