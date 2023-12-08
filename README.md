@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./Banner.png)
 
 
 Hi 👋 My name is Naimul Haq Abeer
