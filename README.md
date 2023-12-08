@@ -11,7 +11,7 @@ Motivated and enthusiastic junior web developer with a strong foundation in web 
 * ✉️  You can contact me at [naimul.h.abeer@gmail.com](mailto:naimul.h.abeer@gmail.com)
 * 🧠  I'm learning TypeScript and Next.js
 * 🤝  I'm open to collaborating on React and Next.js websites
-* 📄  Here's my resume [https://drive.google.com/file/d/1nba211UUmK7-sPcjLUWo546uNg2JkRT_/view?usp=sharing](https://drive.google.com/file/d/1nba211UUmK7-sPcjLUWo546uNg2JkRT_/view?usp=sharing)
+* 📄  Here's my resume [https://drive.google.com/file/d/1-djE38IC4Jqwfi_vqMgqIL93w2qMcgT5/view?usp=sharing](https://drive.google.com/file/d/1-djE38IC4Jqwfi_vqMgqIL93w2qMcgT5/view?usp=sharing)
 
 
 ### Skills
