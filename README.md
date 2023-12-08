@@ -30,9 +30,9 @@ Motivated and enthusiastic junior web developer with a strong foundation in web 
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=naimulabeer&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=naimulabeer&theme=github-dark-blue&hide_border=true)
 
 ![Naimul Abeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimulabeer&show_icons=true&theme=github_dark)
 
 
-[![Naimul Abeer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimulabeer&layout=pie&theme=github_dark)](https://github.com/naimulabeer/github-readme-stats)
+![Naimul Abeer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimulabeer&layout=pie&theme=github_dark)
