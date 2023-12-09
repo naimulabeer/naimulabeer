@@ -13,6 +13,31 @@ Motivated and enthusiastic junior web developer with a strong foundation in web 
 * 🤝  I'm open to collaborating on React and Next.js websites
 * 📄  Here's my resume [https://drive.google.com/file/d/1-djE38IC4Jqwfi_vqMgqIL93w2qMcgT5/view?usp=sharing](https://drive.google.com/file/d/1-djE38IC4Jqwfi_vqMgqIL93w2qMcgT5/view?usp=sharing)
 
+### Project Portfolio
+
+### Guest Glide (Nov 2023 – Dec 2023)
+- Developed a Hotel Management Web Application using MERN stack.
+- Features include stunning homepage visuals, special offers updates, secure user authentication, intuitive room booking with date picker, user reviews, and responsive design.
+- Implemented a custom 404 page, access control, JWT token authorization for security, and hidden credentials for data protection.
+- Elevate the hotel booking experience with a visually engaging, user-friendly, and secure platform.
+- **Technologies Used:** React, Express, Firebase, JWT, SCSS, MongoDB, Aos
+- [🔗 Live Link](https://guest-glider.web.app/) | [🔗 Client Code](https://github.com/naimulabeer/guest-glide-client) | [🔗 Server Code](https://github.com/naimulabeer/guest-glide-server)
+
+### Craft Clothing (Aug 2023 – Sep 2023)
+- Created a dynamic e-commerce website, leverages User Interface and Authentication.
+- Seamlessly explore diverse clothing categories, effortlessly adding items to cart through Google login.
+- Enjoy an intuitive shopping experience on this platform, where a user-friendly interface meets the convenience of secure authentication.
+- **Technologies Used:** React, React Router, SCSS, Firebase, Styled Components.
+- [🔗 Live Link](https://dancing-selkie-486bfa.netlify.app/) | [🔗 GitHub Code](https://github.com/naimulabeer/craft-clothing)
+
+### Wanderer’s Pizza (Jul 2023 – Sep 2023)
+- Developed a static pizza ordering website employing React Router for seamless navigation and Redux for efficient UI state management.
+- Customers can easily place pizza orders and opt for hassle-free delivery.
+- The integration of React Router ensures a smooth user experience while Redux efficiently manages the website's interface dynamics.
+- **Technologies Used:** React Redux, Redux Async Thunk, React Router, Tailwind CSS, Mapbox
+- [🔗 Live Link](https://main--endearing-sfogliatella-f357a8.netlify.app/) | [🔗 GitHub Code](https://github.com/naimulabeer/fast-react-pizza-vite)
+
+
 
 ### Skills
 
