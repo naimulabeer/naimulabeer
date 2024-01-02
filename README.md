@@ -30,13 +30,6 @@ Motivated and enthusiastic junior web developer with a strong foundation in web 
 - **Technologies Used:** React, React Router, SCSS, Firebase, Styled Components.
 - [🔗 Live Link](https://dancing-selkie-486bfa.netlify.app/) | [🔗 GitHub Code](https://github.com/naimulabeer/craft-clothing)
 
-### Wanderer’s Pizza (Jul 2023 – Sep 2023)
-- Developed a static pizza ordering website employing React Router for seamless navigation and Redux for efficient UI state management.
-- Customers can easily place pizza orders and opt for hassle-free delivery.
-- The integration of React Router ensures a smooth user experience while Redux efficiently manages the website's interface dynamics.
-- **Technologies Used:** React Redux, Redux Async Thunk, React Router, Tailwind CSS, Mapbox
-- [🔗 Live Link](https://main--endearing-sfogliatella-f357a8.netlify.app/) | [🔗 GitHub Code](https://github.com/naimulabeer/fast-react-pizza-vite)
-
 
 
 ### Skills
