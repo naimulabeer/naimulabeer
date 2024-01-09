@@ -5,7 +5,7 @@ Hi 👋 I'm Naimul Haq Abeer
 =================================
 
 
-Motivated and enthusiastic junior web developer with a strong foundation in web development technologies, seeking an opportunity to kickstart my career in a dynamic and collaborative environment. Eager to learn and grow as a professional web developer while contributing my creativity and problem solving skills to build engaging and user-friendly websites.
+Recent Computer Science graduate and web development enthusiast with a mediator personality. Specializing in the MERN stack, driven by an intuitive approach. With a feeling orientation, crafting harmonious digital experiences and embracing flexibility in a prospecting style.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [naimul.h.abeer@gmail.com](mailto:naimul.h.abeer@gmail.com)
