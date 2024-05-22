@@ -1,7 +1,7 @@
 ![Header](./Banner.png)
 
 
-Hi 👋👋 I'm Naimul Haq Abeer 
+Hi 👋 I'm Naimul Haq Abeer 
 =================================
 
 
