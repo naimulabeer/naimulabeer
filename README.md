@@ -7,7 +7,7 @@ Hi 👋 I'm Naimul Haq Abeer
 
 Recent Computer Science graduate and web development enthusiast with a mediator personality. Specializing in the MERN stack, driven by an intuitive approach. With a feeling orientation, crafting harmonious digital experiences and embracing flexibility in a prospecting style.
 
-* 🌍  I'm based in Dhaka, Bangladesh 
+* 🌍  I'm based in Dhaka, Bangladesh.
 * ✉️  You can contact me at [naimul.h.abeer@gmail.com](mailto:naimul.h.abeer@gmail.com) 
 * 🧠  I'm learning React 19 and Next.js 15
 * 🤝  I'm open to collaborating on React and Next.js websites
